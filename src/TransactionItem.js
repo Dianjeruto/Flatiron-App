@@ -5,7 +5,7 @@ function TransactionItem({ transaction, onDeleteTransaction }) {
 
   //DELETE transaction operation
   function handleTransactionDelete() {
-    fetch(`http://localhost:6001/transactions/${transaction.id}`, {
+    fetch(`https://my-json-server.typicode.com/DianJeruto/Flatiron-App/transactions/${transaction.id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())
