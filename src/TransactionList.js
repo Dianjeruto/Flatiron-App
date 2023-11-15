@@ -9,7 +9,7 @@ function TransactionList(){
 
   //GET TRANSACTIONS FROM DB
   useEffect(() => {
-    fetch(`https://my-json-server.typicode.com/DianJeruto/Flatiron-App/transactions`)
+    fetch('https://my-json-server.typicode.com/DianJeruto/Flatiron-App/transactions')
       .then((res) => res.json())
       .then((transactions) => setTransactions(transactions));
   }, []);
