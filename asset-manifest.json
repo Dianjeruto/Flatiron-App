@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Flatiron-App/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/Flatiron-App/static/js/main.42d36852.chunk.js",
+    "main.js.map": "/Flatiron-App/static/js/main.42d36852.chunk.js.map",
+    "runtime~main.js": "/Flatiron-App/static/js/runtime~main.db68bdcf.js",
+    "runtime~main.js.map": "/Flatiron-App/static/js/runtime~main.db68bdcf.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/Flatiron-App/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/Flatiron-App/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/Flatiron-App/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/Flatiron-App/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/Flatiron-App/index.html",
+    "precache-manifest.1ba8e93132f6cd413f3ed02e5b28d365.js": "/Flatiron-App/precache-manifest.1ba8e93132f6cd413f3ed02e5b28d365.js",
+    "service-worker.js": "/Flatiron-App/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/Flatiron-App/static/css/main.435d5fe5.chunk.css.map"
+  }
+}
